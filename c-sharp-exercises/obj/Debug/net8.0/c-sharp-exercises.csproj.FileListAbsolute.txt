@@ -1,0 +1,15 @@
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\bin\Debug\net8.0\c-sharp-exercises.exe
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\bin\Debug\net8.0\c-sharp-exercises.deps.json
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\bin\Debug\net8.0\c-sharp-exercises.runtimeconfig.json
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\bin\Debug\net8.0\c-sharp-exercises.dll
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\bin\Debug\net8.0\c-sharp-exercises.pdb
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\obj\Debug\net8.0\c-sharp-exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\obj\Debug\net8.0\c-sharp-exercises.AssemblyInfoInputs.cache
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\obj\Debug\net8.0\c-sharp-exercises.AssemblyInfo.cs
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\obj\Debug\net8.0\c-sharp-exercises.csproj.CoreCompileInputs.cache
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\obj\Debug\net8.0\c-sharp-exercises.sourcelink.json
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\obj\Debug\net8.0\c-sharp-exercises.dll
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\obj\Debug\net8.0\refint\c-sharp-exercises.dll
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\obj\Debug\net8.0\c-sharp-exercises.pdb
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\obj\Debug\net8.0\c-sharp-exercises.genruntimeconfig.cache
+C:\Users\Clive\Documents\northcoders\intro-week\c-sharp-exercises-solution\c-sharp-exercises\obj\Debug\net8.0\ref\c-sharp-exercises.dll
